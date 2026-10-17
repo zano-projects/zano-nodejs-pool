@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/main/learn/assets/04-staking-ecosystem.webp" alt="Zano zano-nodejs-pool" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zano-projects/Zano-Wallet/master/learn/assets/04-staking-ecosystem.webp" alt="Zano zano-nodejs-pool" width="100%"></p>
 
 <h1 align="center">zano-nodejs-pool</h1>
 <p align="center"><b>Node.js mining pool for Zano - part of the Zano Wallet ecosystem.</b></p>
@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://github.com/zano-projects"><img src="https://img.shields.io/badge/GitHub-zano--projects-7c5cff?style=for-the-badge&logo=github" alt="Zano Wallet on GitHub"></a>
 <a href="https://github.com/zano-projects/Zano-Wallet/releases/tag/v2.0.4"><img src="https://img.shields.io/badge/Release-v2.0.4-1f2a6b?style=for-the-badge" alt="Zano Wallet v2.0.4 release"></a>
-<a href="https://github.com/zano-projects/Zano-Wallet/tree/main/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
+<a href="https://github.com/zano-projects/Zano-Wallet/tree/master/learn"><img src="https://img.shields.io/badge/Guides-Zano%20Wallet%20Learn-3b2a8f?style=for-the-badge" alt="Zano Wallet guides"></a>
 </p>
 
 ---
@@ -17,8 +17,8 @@ Zano Node.js mining pool: run a stratum pool for ZANO miners with payouts from a
 
 ## Guide
 
-- [Run a Zano Mining Pool With zano-nodejs-pool](https://github.com/zano-projects/Zano-Wallet/blob/main/learn/how-to/zano-mining-pool-setup.md)
-- [All Zano Wallet guides](https://github.com/zano-projects/Zano-Wallet/tree/main/learn)
+- [Run a Zano Mining Pool With zano-nodejs-pool](https://github.com/zano-projects/Zano-Wallet/blob/master/learn/how-to/zano-mining-pool-setup.md)
+- [All Zano Wallet guides](https://github.com/zano-projects/Zano-Wallet/tree/master/learn)
 - GitHub: [github.com/zano-projects](https://github.com/zano-projects)
 
 ## Get Zano Wallet
